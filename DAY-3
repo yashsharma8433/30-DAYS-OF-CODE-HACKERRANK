@@ -15,7 +15,7 @@ public class Solution {
         int N = Integer.parseInt(bufferedReader.readLine().trim());
         if(N%2==0){
             if(N>=2&& N<=5){
-                System.out.println(" Not Weird");
+                System.out.println("Not Weird");
                 
             }
             else if (N>=6&& N<=20){
